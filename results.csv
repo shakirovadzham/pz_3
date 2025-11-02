@@ -1,0 +1,11 @@
+Image;Filter;Window_Size;Similarity_%
+1.pgm;Median;3x3;74.81
+1.pgm;Median;5x5;65.75
+2.pgm;Median;3x3;81.08
+2.pgm;Median;5x5;74.04
+3.pgm;Median;3x3;72.24
+3.pgm;Median;5x5;64.13
+4.pgm;Median;3x3;77.31
+4.pgm;Median;5x5;68.34
+5.pgm;Median;3x3;75.10
+5.pgm;Median;5x5;66.96
